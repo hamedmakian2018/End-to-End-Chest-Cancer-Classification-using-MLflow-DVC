@@ -1,0 +1,12 @@
+creation_timestamp: 1746395340006
+current_stage: None
+description: null
+last_updated_timestamp: 1746395340006
+name: VGG16Model
+run_id: 48f21bad20644c1b9181b3d34b648ae1
+run_link: null
+source: mlflow-artifacts:/ae1e5d84f4f9472d9f0a88bc000a226d/48f21bad20644c1b9181b3d34b648ae1/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
